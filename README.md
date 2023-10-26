@@ -10,3 +10,6 @@ A continuación, te proporciono un vistazo rápido a mis habilidades y experienc
 - 🌐 Experiencia en HTML, CSS y JavaScript
 - 🖥️ Administración de servidores
 - 💡 Apasionado por aprender y compartir conocimientos
+
+# Leitmotiv
+*Desarrollando el futuro, un código a la vez.*
