@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub!
 Soy un desarrollador apasionado por la programación.
-A continuación, te proporciono un vistazo rápido a mis habilidades y experiencias:
+A continuación, te proporciono un vistazo rápido a mis habilidades:
 
 ## Sobre mí
 
