@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un **desarrollador de software** con experiencia en la creación de aplicaciones web y móviles. Me especializo en ofrecer soluciones tecnológicas para pequeñas y medianas empresas, enfocándome en la eficiencia y escalabilidad. Actualmente, estoy profundizando en tecnologías modernas para mejorar mis habilidades y aportar valor en cada proyecto.
+Soy un **desarrollador de software** con experiencia en la creación de aplicaciones web y móviles. Me especializo en ofrecer soluciones tecnológicas, enfocándome en la eficiencia y escalabilidad. Actualmente, estoy profundizando en tecnologías modernas para mejorar mis habilidades y aportar valor en cada proyecto.
 
 ---
 
@@ -30,6 +30,8 @@ Soy un **desarrollador de software** con experiencia en la creación de aplicaci
 
 - PostgreSQL
 - SQLite
+- SQL server
+- MSSQL Microsoft SQL Server
 
 **DevOps y otros:**
 
