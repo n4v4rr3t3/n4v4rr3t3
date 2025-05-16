@@ -43,9 +43,9 @@ Soy un **desarrollador de software** con experiencia en la creación de aplicaci
 
 ## 📂 Proyectos destacados
 
-### ✅ [To-Do App](https://github.com/n4v4rr3t3/To-Do-App)
+### ✅ [ToDo App](https://github.com/n4v4rr3t3/ToDo-App)
 
-Una aplicación de lista de tareas desarrollada para demostrar habilidades en la gestión de tareas, con funcionalidades como agregar, actualizar y eliminar tareas, y organización por categorías como "Mi Día", "Semana Actual", "Mes Actual" y "Todas las Tareas".
+Una aplicación de lista de tareas desarrollada para demostrar habilidades en la gestión de tareas, con funcionalidades como agregar, actualizar y eliminar tareas, y organización por prioridad como "Alta", "Media", "Baja".
 
 ---
 
