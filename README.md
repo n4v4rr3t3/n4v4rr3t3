@@ -58,7 +58,7 @@ Estoy trabajando en varios proyectos que reflejan mi compromiso con el aprendiza
 - **Aplicación de gestión de proyectos**  
   Una herramienta para planificar, ejecutar y monitorear proyectos de manera eficiente.
 
-- **Plataforma de comercio **  
+- **Plataforma de comercio**  
   Un sistema para facilitar la compra y venta de productos y servicios.
 
 - **Aplicación de seguimiento de hábitos**  
