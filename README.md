@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Marcelo%20Navarrete&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+
+
 # 👋 ¡Hola! Soy Marcelo Navarrete
 
 ### Desarrollador de software apasionado por crear soluciones tecnológicas eficientes y escalables.
@@ -63,6 +66,16 @@ Estoy trabajando en varios proyectos que reflejan mi compromiso con el aprendiza
 
 - **Aplicación de seguimiento de hábitos**  
   Una app para ayudar a los usuarios a establecer y mantener hábitos saludables.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n4v4rr3t3&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4v4rr3t3&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4v4rr3t3&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
