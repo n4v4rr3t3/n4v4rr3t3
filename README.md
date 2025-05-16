@@ -73,10 +73,11 @@ Estoy trabajando en varios proyectos que reflejan mi compromiso con el aprendiza
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=n4v4rr3t3&show_icons=true&theme=dark" alt="GitHub Stats" />
-  # -O-
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=n4v4rr3t3&theme=dark" alt="GitHub Streak" />
-  # -O-
-
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4v4rr3t3&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
